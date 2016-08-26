@@ -3,7 +3,7 @@ OpticalConnectivityIntent over ONOS Rest API
 
 This file contains a new codec (OpticalConnectivityIntentCodec.java), and specific edited
 java files in "onos-rest", and "onos-core-common" maven projects for the codec integration 
-to ONOS. With this codec, it is possible to create End-to-End optical routes using the ONOS 
+to ONOS 1.3 (Drake). With this codec, it is possible to create End-to-End optical routes using the ONOS 
 Rest API instead of the CLI.
 
 ### POST Json template:
