@@ -1,2 +1,2 @@
 # onos-optical
-This repository contains personal work done on a local version of ONOS controller, related with optical network configuration.
+This repository contains work done on ONOS related with optical network configuration.
